@@ -1,0 +1,16 @@
+
+body {
+  
+        background-image: url(/C:\Users\monic\Pictures\mansontherock.png);
+
+    }
+
+button {
+    background-color: rgb(250, 247, 244);
+    border-color: black;
+    
+}
+
+button:hover {
+    cursor: pointer;
+}
